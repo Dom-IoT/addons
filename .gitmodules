@@ -1,9 +1,12 @@
 [submodule "ha_core"]
 	path = ha_core
 	url = https://github.com/Dom-IoT/ha_core
+	branch = develop
 [submodule "ha_eagenda"]
 	path = ha_eagenda
 	url = https://github.com/Dom-IoT/ha_eagenda
+	branch = develop
 [submodule "ha_ecabinet"]
 	path = ha_ecabinet
 	url = https://github.com/Dom-IoT/ha_ecabinet
+	branch = develop
