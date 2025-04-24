@@ -9,4 +9,3 @@
 [submodule "ha_ecabinet"]
 	path = ha_ecabinet
 	url = https://github.com/Dom-IoT/ha_ecabinet
-	branch = develop
