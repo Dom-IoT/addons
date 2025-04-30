@@ -1,0 +1,7 @@
+### ADDON INSTALLATION
+Follow this steps to install the add-ons. This steps will work only if you have followed the installation as describe in our documentation.
+
+1. Clone the add-on repository you want to install
+2. Enter add-on directory and run ```make addon-setup```
+
+To update the add-on, run ```make addon-update```, it will reinstall the add-on on your HomeAssistant host.
